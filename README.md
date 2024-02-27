@@ -14,4 +14,4 @@ situations.
 Reinforcement learning methodologies are created and described in this work, together
 with integrated testing, performance evaluation, and comparison analysis.
 Key words: Reinforcement Learning (RL) ,Evaluation, Comparison, Stable Baselines, Gym,
-Advantage Actor-Critic (A2C), Proximal Policy Optimization (PPO), Twin Delayd DDPG(TD3), Deep Deterministic Policy Gradient (DDPG)..
+Advantage Actor-Critic (A2C), Proximal Policy Optimization (PPO), Twin Delayd DDPG(TD3), Deep Deterministic Policy Gradient (DDPG).
